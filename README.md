@@ -18,4 +18,4 @@ The following are the steps to reproduce Figure 1 and 2:
 *  Run `run.sh` to obtain motif counts. 
 *  Run `Code/plot_motif_counts_bar_error.R/` to plot Figure 1 and 2.
 
-To report bugs encountered in running the code, please contact Xiaojing Zhu at xiaojzhu@bu.edu
+For issues encountered in running the code, please contact Xiaojing Zhu at xiaojzhu@bu.edu
